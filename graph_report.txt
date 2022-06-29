@@ -1,0 +1,536 @@
+---IN AND OUT EDGES---
+
+paleshadow7, 70, 61
+BugunTv, 2, 12
+EngrSeries, 4, 3
+TradeWithJake, 3, 3
+PholoH, 12, 12
+iamDavidAnyanwu, 9, 8
+ad_wainy, 2, 2
+CEVDET_KAVLAK, 5, 6
+ulkucumedyacom, 8, 6
+Dwagg_, 4, 4
+Krismokartistry, 1, 1
+Ha_royalsexynes, 2, 2
+MikeyWax, 1, 1
+JohnOdedeji, 9, 8
+AdeelSherlock, 5, 4
+umutkatirci, 1, 4
+teddythadeejay, 5, 4
+Don_luke1, 4, 7
+ayala_madrid_, 2, 2
+dhighsea, 2, 2
+omoHarkin_, 7, 6
+McLloyd_Clinton, 10, 9
+evansmthetho, 10, 13
+OsasCruz, 10, 9
+deck_panel, 6, 4
+Damey15, 4, 3
+PositivityPack, 2, 1
+Tweeet_Prensi, 4, 5
+atabenli, 4, 4
+kiddicino, 5, 4
+pelindemir88, 3, 1
+roger_zhat, 6, 6
+fessiedonn1, 4, 6
+HaticeKozz, 4, 1
+officialalihan, 3, 7
+Madridista_AFG, 2, 2
+bilgegoktas, 3, 4
+damilare_21758, 3, 2
+JustBlackNova, 8, 5
+dossantosbobai, 2, 2
+mikkoses, 0, 1
+kenyamarketers, 5, 3
+FloEazyRocks, 4, 3
+ClarenceGraham2, 1, 1
+Blake_SHR, 5, 5
+shmurda_bucks, 4, 4
+dunyanin_1_hali, 3, 2
+GokuUchiha8, 1, 1
+BobbyMichaelz, 2, 2
+lindorlee1, 2, 5
+acholaodhiambo1, 1, 1
+ColeReignz, 3, 3
+NAMTHESH2, 2, 2
+itzakinola, 0, 2
+ChikoraEgwuoba, 4, 4
+u_cyprain, 0, 1
+vibewaifu, 2, 1
+IPheelz, 12, 11
+therealtm_, 4, 6
+birtahmin, 0, 1
+sailordroid12, 1, 2
+treasuresbouti, 1, 2
+adamrakisikli, 2, 1
+tj0I3NFrCWWD9yH, 1, 1
+OmololaAyobami3, 5, 9
+ThobzNation, 3, 4
+onyediyasimdin, 5, 2
+dboidaniel, 1, 1
+MehmetCanbegOfc, 1, 3
+PikokoThabang, 3, 2
+YasamOyunu, 5, 2
+
+
+--COMPONENTS---
+
+Strongly Connected Components:
+
+{'umutkatirci', 'vibewaifu', 'BobbyMichaelz', 'deck_panel', 'YasamOyunu', 'paleshadow7', 'pelindemir88', 'kenyamarketers', 'dhighsea', 'CEVDET_KAVLAK', 'officialalihan', 'dboidaniel', 'BugunTv', 'Damey15', 'OsasCruz', 'OmololaAyobami3', 'dossantosbobai', 'atabenli', 'Don_luke1', 'teddythadeejay', 'PikokoThabang', 'bilgegoktas', 'Blake_SHR', 'HaticeKozz', 'treasuresbouti', 'ClarenceGraham2', 'Tweeet_Prensi', 'Madridista_AFG', 'sailordroid12', 'damilare_21758', 'FloEazyRocks', 'dunyanin_1_hali', 'omoHarkin_', 'MehmetCanbegOfc', 'lindorlee1', 'ulkucumedyacom', 'acholaodhiambo1', 'ColeReignz', 'IPheelz', 'tj0I3NFrCWWD9yH', 'NAMTHESH2', 'Krismokartistry', 'PholoH', 'PositivityPack', 'evansmthetho', 'MikeyWax', 'ThobzNation', 'JustBlackNova', 'EngrSeries', 'ayala_madrid_', 'McLloyd_Clinton', 'kiddicino', 'roger_zhat', 'shmurda_bucks', 'onyediyasimdin', 'AdeelSherlock', 'ad_wainy', 'iamDavidAnyanwu', 'TradeWithJake', 'fessiedonn1', 'Dwagg_', 'JohnOdedeji', 'therealtm_', 'ChikoraEgwuoba', 'adamrakisikli', 'GokuUchiha8', 'Ha_royalsexynes'}
+{'mikkoses'}
+{'itzakinola'}
+{'u_cyprain'}
+{'birtahmin'}
+
+
+---CENTRALITIES---
+
+Degree Centrality
+
+paleshadow7, 1.8714285714285714
+PholoH, 0.34285714285714286
+evansmthetho, 0.32857142857142857
+IPheelz, 0.32857142857142857
+McLloyd_Clinton, 0.2714285714285714
+OsasCruz, 0.2714285714285714
+iamDavidAnyanwu, 0.24285714285714285
+JohnOdedeji, 0.24285714285714285
+BugunTv, 0.19999999999999998
+ulkucumedyacom, 0.19999999999999998
+OmololaAyobami3, 0.19999999999999998
+omoHarkin_, 0.18571428571428572
+JustBlackNova, 0.18571428571428572
+roger_zhat, 0.17142857142857143
+CEVDET_KAVLAK, 0.15714285714285714
+Don_luke1, 0.15714285714285714
+deck_panel, 0.14285714285714285
+fessiedonn1, 0.14285714285714285
+officialalihan, 0.14285714285714285
+Blake_SHR, 0.14285714285714285
+therealtm_, 0.14285714285714285
+AdeelSherlock, 0.12857142857142856
+teddythadeejay, 0.12857142857142856
+Tweeet_Prensi, 0.12857142857142856
+kiddicino, 0.12857142857142856
+Dwagg_, 0.11428571428571428
+atabenli, 0.11428571428571428
+kenyamarketers, 0.11428571428571428
+shmurda_bucks, 0.11428571428571428
+ChikoraEgwuoba, 0.11428571428571428
+EngrSeries, 0.09999999999999999
+Damey15, 0.09999999999999999
+bilgegoktas, 0.09999999999999999
+FloEazyRocks, 0.09999999999999999
+lindorlee1, 0.09999999999999999
+ThobzNation, 0.09999999999999999
+onyediyasimdin, 0.09999999999999999
+YasamOyunu, 0.09999999999999999
+TradeWithJake, 0.08571428571428572
+ColeReignz, 0.08571428571428572
+umutkatirci, 0.07142857142857142
+HaticeKozz, 0.07142857142857142
+damilare_21758, 0.07142857142857142
+dunyanin_1_hali, 0.07142857142857142
+PikokoThabang, 0.07142857142857142
+ad_wainy, 0.05714285714285714
+Ha_royalsexynes, 0.05714285714285714
+ayala_madrid_, 0.05714285714285714
+dhighsea, 0.05714285714285714
+pelindemir88, 0.05714285714285714
+Madridista_AFG, 0.05714285714285714
+dossantosbobai, 0.05714285714285714
+BobbyMichaelz, 0.05714285714285714
+NAMTHESH2, 0.05714285714285714
+MehmetCanbegOfc, 0.05714285714285714
+PositivityPack, 0.04285714285714286
+vibewaifu, 0.04285714285714286
+sailordroid12, 0.04285714285714286
+treasuresbouti, 0.04285714285714286
+adamrakisikli, 0.04285714285714286
+Krismokartistry, 0.02857142857142857
+MikeyWax, 0.02857142857142857
+ClarenceGraham2, 0.02857142857142857
+GokuUchiha8, 0.02857142857142857
+acholaodhiambo1, 0.02857142857142857
+itzakinola, 0.02857142857142857
+tj0I3NFrCWWD9yH, 0.02857142857142857
+dboidaniel, 0.02857142857142857
+mikkoses, 0.014285714285714285
+u_cyprain, 0.014285714285714285
+birtahmin, 0.014285714285714285
+
+
+In-Degree Centrality
+
+paleshadow7, 1.0
+PholoH, 0.17142857142857143
+IPheelz, 0.17142857142857143
+McLloyd_Clinton, 0.14285714285714285
+evansmthetho, 0.14285714285714285
+OsasCruz, 0.14285714285714285
+iamDavidAnyanwu, 0.12857142857142856
+JohnOdedeji, 0.12857142857142856
+ulkucumedyacom, 0.11428571428571428
+JustBlackNova, 0.11428571428571428
+omoHarkin_, 0.09999999999999999
+deck_panel, 0.08571428571428572
+roger_zhat, 0.08571428571428572
+CEVDET_KAVLAK, 0.07142857142857142
+AdeelSherlock, 0.07142857142857142
+teddythadeejay, 0.07142857142857142
+kiddicino, 0.07142857142857142
+kenyamarketers, 0.07142857142857142
+Blake_SHR, 0.07142857142857142
+OmololaAyobami3, 0.07142857142857142
+onyediyasimdin, 0.07142857142857142
+YasamOyunu, 0.07142857142857142
+EngrSeries, 0.05714285714285714
+Dwagg_, 0.05714285714285714
+Don_luke1, 0.05714285714285714
+Damey15, 0.05714285714285714
+Tweeet_Prensi, 0.05714285714285714
+atabenli, 0.05714285714285714
+fessiedonn1, 0.05714285714285714
+HaticeKozz, 0.05714285714285714
+FloEazyRocks, 0.05714285714285714
+shmurda_bucks, 0.05714285714285714
+ChikoraEgwuoba, 0.05714285714285714
+therealtm_, 0.05714285714285714
+TradeWithJake, 0.04285714285714286
+pelindemir88, 0.04285714285714286
+officialalihan, 0.04285714285714286
+bilgegoktas, 0.04285714285714286
+damilare_21758, 0.04285714285714286
+dunyanin_1_hali, 0.04285714285714286
+ColeReignz, 0.04285714285714286
+ThobzNation, 0.04285714285714286
+PikokoThabang, 0.04285714285714286
+BugunTv, 0.02857142857142857
+ad_wainy, 0.02857142857142857
+Ha_royalsexynes, 0.02857142857142857
+ayala_madrid_, 0.02857142857142857
+dhighsea, 0.02857142857142857
+PositivityPack, 0.02857142857142857
+Madridista_AFG, 0.02857142857142857
+dossantosbobai, 0.02857142857142857
+BobbyMichaelz, 0.02857142857142857
+lindorlee1, 0.02857142857142857
+NAMTHESH2, 0.02857142857142857
+vibewaifu, 0.02857142857142857
+adamrakisikli, 0.02857142857142857
+Krismokartistry, 0.014285714285714285
+MikeyWax, 0.014285714285714285
+umutkatirci, 0.014285714285714285
+ClarenceGraham2, 0.014285714285714285
+GokuUchiha8, 0.014285714285714285
+acholaodhiambo1, 0.014285714285714285
+sailordroid12, 0.014285714285714285
+treasuresbouti, 0.014285714285714285
+tj0I3NFrCWWD9yH, 0.014285714285714285
+dboidaniel, 0.014285714285714285
+MehmetCanbegOfc, 0.014285714285714285
+mikkoses, 0.0
+itzakinola, 0.0
+u_cyprain, 0.0
+birtahmin, 0.0
+
+
+Out-Degree Centrality
+
+paleshadow7, 0.8714285714285714
+evansmthetho, 0.18571428571428572
+BugunTv, 0.17142857142857143
+PholoH, 0.17142857142857143
+IPheelz, 0.15714285714285714
+McLloyd_Clinton, 0.12857142857142856
+OsasCruz, 0.12857142857142856
+OmololaAyobami3, 0.12857142857142856
+iamDavidAnyanwu, 0.11428571428571428
+JohnOdedeji, 0.11428571428571428
+Don_luke1, 0.09999999999999999
+officialalihan, 0.09999999999999999
+CEVDET_KAVLAK, 0.08571428571428572
+ulkucumedyacom, 0.08571428571428572
+omoHarkin_, 0.08571428571428572
+roger_zhat, 0.08571428571428572
+fessiedonn1, 0.08571428571428572
+therealtm_, 0.08571428571428572
+Tweeet_Prensi, 0.07142857142857142
+JustBlackNova, 0.07142857142857142
+Blake_SHR, 0.07142857142857142
+lindorlee1, 0.07142857142857142
+Dwagg_, 0.05714285714285714
+AdeelSherlock, 0.05714285714285714
+umutkatirci, 0.05714285714285714
+teddythadeejay, 0.05714285714285714
+deck_panel, 0.05714285714285714
+atabenli, 0.05714285714285714
+kiddicino, 0.05714285714285714
+bilgegoktas, 0.05714285714285714
+shmurda_bucks, 0.05714285714285714
+ChikoraEgwuoba, 0.05714285714285714
+ThobzNation, 0.05714285714285714
+EngrSeries, 0.04285714285714286
+TradeWithJake, 0.04285714285714286
+Damey15, 0.04285714285714286
+kenyamarketers, 0.04285714285714286
+FloEazyRocks, 0.04285714285714286
+ColeReignz, 0.04285714285714286
+MehmetCanbegOfc, 0.04285714285714286
+ad_wainy, 0.02857142857142857
+Ha_royalsexynes, 0.02857142857142857
+ayala_madrid_, 0.02857142857142857
+dhighsea, 0.02857142857142857
+Madridista_AFG, 0.02857142857142857
+damilare_21758, 0.02857142857142857
+dossantosbobai, 0.02857142857142857
+dunyanin_1_hali, 0.02857142857142857
+BobbyMichaelz, 0.02857142857142857
+NAMTHESH2, 0.02857142857142857
+itzakinola, 0.02857142857142857
+sailordroid12, 0.02857142857142857
+treasuresbouti, 0.02857142857142857
+onyediyasimdin, 0.02857142857142857
+PikokoThabang, 0.02857142857142857
+YasamOyunu, 0.02857142857142857
+Krismokartistry, 0.014285714285714285
+MikeyWax, 0.014285714285714285
+PositivityPack, 0.014285714285714285
+pelindemir88, 0.014285714285714285
+HaticeKozz, 0.014285714285714285
+mikkoses, 0.014285714285714285
+ClarenceGraham2, 0.014285714285714285
+GokuUchiha8, 0.014285714285714285
+acholaodhiambo1, 0.014285714285714285
+u_cyprain, 0.014285714285714285
+vibewaifu, 0.014285714285714285
+birtahmin, 0.014285714285714285
+adamrakisikli, 0.014285714285714285
+tj0I3NFrCWWD9yH, 0.014285714285714285
+dboidaniel, 0.014285714285714285
+
+
+Closeness Degree Centrality
+
+paleshadow7, 0.8764587525150905
+BugunTv, 0.5142857142857142
+evansmthetho, 0.5142857142857142
+PholoH, 0.5018433179723502
+IPheelz, 0.49782857142857145
+Don_luke1, 0.4938775510204082
+McLloyd_Clinton, 0.4938775510204082
+OmololaAyobami3, 0.4938775510204082
+OsasCruz, 0.4899887514060742
+iamDavidAnyanwu, 0.4861607142857143
+ulkucumedyacom, 0.4861607142857143
+JohnOdedeji, 0.4861607142857143
+Tweeet_Prensi, 0.4861607142857143
+roger_zhat, 0.4861607142857143
+officialalihan, 0.4861607142857143
+CEVDET_KAVLAK, 0.4823920265780731
+deck_panel, 0.4823920265780731
+fessiedonn1, 0.47868131868131863
+therealtm_, 0.47868131868131863
+omoHarkin_, 0.4750272628135223
+bilgegoktas, 0.4750272628135223
+JustBlackNova, 0.4750272628135223
+lindorlee1, 0.4750272628135223
+umutkatirci, 0.4714285714285714
+atabenli, 0.4714285714285714
+Blake_SHR, 0.4714285714285714
+shmurda_bucks, 0.4714285714285714
+itzakinola, 0.4680917622523462
+Dwagg_, 0.46788399570354455
+AdeelSherlock, 0.46788399570354455
+teddythadeejay, 0.46788399570354455
+kiddicino, 0.46788399570354455
+ChikoraEgwuoba, 0.46788399570354455
+ThobzNation, 0.46788399570354455
+MehmetCanbegOfc, 0.46788399570354455
+mikkoses, 0.46469979296066255
+u_cyprain, 0.46469979296066255
+birtahmin, 0.46469979296066255
+EngrSeries, 0.4643923240938166
+TradeWithJake, 0.4643923240938166
+Damey15, 0.4643923240938166
+kenyamarketers, 0.4643923240938166
+FloEazyRocks, 0.4643923240938166
+ColeReignz, 0.4643923240938166
+onyediyasimdin, 0.4643923240938166
+YasamOyunu, 0.4643923240938166
+ad_wainy, 0.46095238095238095
+Ha_royalsexynes, 0.46095238095238095
+MikeyWax, 0.46095238095238095
+ayala_madrid_, 0.46095238095238095
+dhighsea, 0.46095238095238095
+Madridista_AFG, 0.46095238095238095
+damilare_21758, 0.46095238095238095
+dossantosbobai, 0.46095238095238095
+dunyanin_1_hali, 0.46095238095238095
+BobbyMichaelz, 0.46095238095238095
+NAMTHESH2, 0.46095238095238095
+sailordroid12, 0.46095238095238095
+treasuresbouti, 0.46095238095238095
+PikokoThabang, 0.46095238095238095
+Krismokartistry, 0.457563025210084
+PositivityPack, 0.457563025210084
+pelindemir88, 0.457563025210084
+HaticeKozz, 0.457563025210084
+ClarenceGraham2, 0.457563025210084
+GokuUchiha8, 0.457563025210084
+acholaodhiambo1, 0.457563025210084
+vibewaifu, 0.457563025210084
+adamrakisikli, 0.457563025210084
+tj0I3NFrCWWD9yH, 0.457563025210084
+dboidaniel, 0.457563025210084
+
+
+Betweenness Degree Centrality
+
+paleshadow7, 0.8345570837030464
+Tweeet_Prensi, 0.0240308587202997
+evansmthetho, 0.01595016267376516
+OmololaAyobami3, 0.01570245489500148
+IPheelz, 0.00873015873015873
+bilgegoktas, 0.007927881297446517
+ulkucumedyacom, 0.006811594202898544
+PholoH, 0.00678596076111604
+roger_zhat, 0.006437198067632847
+deck_panel, 0.005027605244996545
+OsasCruz, 0.004623878536922015
+McLloyd_Clinton, 0.004114906832298136
+iamDavidAnyanwu, 0.004097900029577048
+JohnOdedeji, 0.0032283348121857434
+BugunTv, 0.002129054520358868
+officialalihan, 0.0016218081435472739
+CEVDET_KAVLAK, 0.0014285714285714286
+Don_luke1, 0.0014081139702257716
+JustBlackNova, 0.0013647342995169083
+omoHarkin_, 0.001311249137336094
+AdeelSherlock, 0.0007763975155279503
+teddythadeejay, 0.0007073844030365769
+Blake_SHR, 0.0006211180124223603
+fessiedonn1, 0.0005866114561766735
+therealtm_, 0.0005521048999309868
+ChikoraEgwuoba, 0.0005175983436853002
+atabenli, 0.0004899930986887507
+FloEazyRocks, 0.00041407867494824016
+kenyamarketers, 0.00034506556245686676
+EngrSeries, 0.0002587991718426501
+TradeWithJake, 0.00020703933747412008
+kiddicino, 0.0001380262249827467
+MehmetCanbegOfc, 0.00012077294685990337
+lindorlee1, 0.00011042097998619738
+YasamOyunu, 0.00011042097998619738
+shmurda_bucks, 0.00010869565217391305
+NAMTHESH2, 0.00010351966873706004
+onyediyasimdin, 0.00010351966873706004
+PikokoThabang, 0.00010351966873706004
+dunyanin_1_hali, 5.175983436853002e-05
+ThobzNation, 5.175983436853002e-05
+ad_wainy, 0.0
+Dwagg_, 0.0
+Krismokartistry, 0.0
+Ha_royalsexynes, 0.0
+MikeyWax, 0.0
+umutkatirci, 0.0
+ayala_madrid_, 0.0
+dhighsea, 0.0
+Damey15, 0.0
+PositivityPack, 0.0
+pelindemir88, 0.0
+HaticeKozz, 0.0
+Madridista_AFG, 0.0
+damilare_21758, 0.0
+dossantosbobai, 0.0
+mikkoses, 0.0
+ClarenceGraham2, 0.0
+GokuUchiha8, 0.0
+BobbyMichaelz, 0.0
+acholaodhiambo1, 0.0
+ColeReignz, 0.0
+itzakinola, 0.0
+u_cyprain, 0.0
+vibewaifu, 0.0
+birtahmin, 0.0
+sailordroid12, 0.0
+treasuresbouti, 0.0
+adamrakisikli, 0.0
+tj0I3NFrCWWD9yH, 0.0
+dboidaniel, 0.0
+
+
+Eigenvector Degree Centrality
+
+paleshadow7, 0.5897317142682817
+PholoH, 0.2236499646586448
+OsasCruz, 0.18723563679818034
+IPheelz, 0.18682042482048156
+evansmthetho, 0.18176169430838535
+McLloyd_Clinton, 0.1794157177904185
+iamDavidAnyanwu, 0.1633339024927233
+JohnOdedeji, 0.16193592922679442
+JustBlackNova, 0.15917039953994974
+omoHarkin_, 0.12713153628307317
+roger_zhat, 0.1269993431457561
+teddythadeejay, 0.11748066955047093
+Don_luke1, 0.11710519259456492
+OmololaAyobami3, 0.11607401352193032
+Damey15, 0.11121356273448602
+shmurda_bucks, 0.11112741025008926
+kenyamarketers, 0.10720746656025462
+therealtm_, 0.1046535726619409
+EngrSeries, 0.10253133874935481
+fessiedonn1, 0.10119962791076861
+kiddicino, 0.09978614484253522
+ColeReignz, 0.09852402533061828
+ulkucumedyacom, 0.09802579779525537
+Blake_SHR, 0.09680067221863742
+AdeelSherlock, 0.09624220078221672
+CEVDET_KAVLAK, 0.09582182657974973
+ChikoraEgwuoba, 0.09329074650594535
+deck_panel, 0.09314472537434347
+ThobzNation, 0.09263239547053938
+Dwagg_, 0.09064976396772882
+HaticeKozz, 0.08871054567616754
+damilare_21758, 0.08744978895117256
+FloEazyRocks, 0.08446506724755608
+dunyanin_1_hali, 0.08424257704419064
+TradeWithJake, 0.08369620826722932
+Tweeet_Prensi, 0.0819867332571782
+lindorlee1, 0.07656195659867003
+PikokoThabang, 0.07599075824796668
+YasamOyunu, 0.07441296904372456
+atabenli, 0.0716570306734118
+bilgegoktas, 0.07084959157612782
+PositivityPack, 0.07004318726855495
+pelindemir88, 0.06823280467616182
+dhighsea, 0.06813050335181021
+Ha_royalsexynes, 0.06690632994372256
+ad_wainy, 0.06683004773629057
+ayala_madrid_, 0.06497185582230018
+Madridista_AFG, 0.06497185582230018
+dossantosbobai, 0.06497185582230018
+BobbyMichaelz, 0.06497185582230018
+NAMTHESH2, 0.06433198729106991
+vibewaifu, 0.06433198729106991
+adamrakisikli, 0.061121523772579615
+Krismokartistry, 0.058524014724058146
+umutkatirci, 0.058524014724058146
+ClarenceGraham2, 0.058524014724058146
+GokuUchiha8, 0.058524014724058146
+acholaodhiambo1, 0.058524014724058146
+sailordroid12, 0.058524014724058146
+treasuresbouti, 0.058524014724058146
+tj0I3NFrCWWD9yH, 0.058524014724058146
+dboidaniel, 0.058524014724058146
+onyediyasimdin, 0.031356350274954495
+officialalihan, 0.027770913690227963
+BugunTv, 0.02617432096051014
+MikeyWax, 0.0115191725444968
+MehmetCanbegOfc, 0.00813637908589825
+mikkoses, 0.0
+itzakinola, 0.0
+u_cyprain, 0.0
+birtahmin, 0.0
